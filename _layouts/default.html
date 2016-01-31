@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ site.path }}{{ page.url }}" />
+
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="{{ page.title }}">
+  {% if page.description %}<meta itemprop="description" content="{{ page.description }}">{% endif %}
+  {% if page.excerpt_image %}<meta itemprop="image" content="{{ page.excerpt_image }}">{% endif %}
+
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@contolini">
+  <meta name="twitter:title" content="{{ page.title }}">
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% endif %}
+  <meta name="twitter:creator" content="@contolini">
+  <!-- Twitter summary card with large image must be at least 280x150px -->
+  {% if page.excerpt_image %}<meta name="twitter:image:src" content="{{ page.excerpt_image }}">{% endif %}
+
+  <!-- Open Graph data -->
+  <meta property="og:title" content="{{ page.title }}" />
+  {% if page.description %}<meta property="og:type" content="article" />{% endif %}
+  {% if page.url %}<meta property="og:url" content="{{ site.url }}{{ site.path }}{{ page.url }}" />{% endif %}
+  {% if page.excerpt_image %}<meta property="og:image" content="{{ page.excerpt_image }}">{% endif %}
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
+  <meta property="og:site_name" content="Chris Contolini" />
+  {% if page.date %}<meta property="article:published_time" content="{{ page.date }}" />{% endif %}
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" type="text/css" href="{{ site.path }}/static/styles/main.css" >
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <script>document.createElement("picture");</script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.1/picturefill.min.js" async></script>
+</head>
+<body>
+
+<div class="container">
+<header class="masthead">
+   <h3 class="masthead-title">
+     <a href="/">{{ site.title }}</a>
+     <small>
+       <a href="https://twitter.com/contolini" title="Twitter"><i class="fa fa-twitter"></i></a>
+     </small>
+     <small>
+       <a href="https://github.com/contolini" title="GitHub"><i class="fa fa-github"></i></a>
+     </small>
+     <small>
+       <a href="https://www.flickr.com/photos/contolini/albums" title="Flickr"><i class="fa fa-flickr"></i></a>
+     </small>
+     <small>
+       <a href="https://www.youtube.com/channel/UCLyILPQ63hGSTP-5M3RxUGg/live" title="YouTube"><i class="fa fa-youtube-square"></i></a>
+     </small>
+     <small>
+       <a href="{{ site.url }}{{ site.path }}/about" title="About"><i class="fa fa-map-o"></i></a>
+     </small>
+   </h3>
+</header>
+
+<div id="content">
+  {{ content }}
+</div>
+
+</div><!-- .container -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="{{ site.path }}/static/scripts/main.min.js"></script>
+</body>
+</html>
