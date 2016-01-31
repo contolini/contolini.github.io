@@ -105,5 +105,5 @@ See if you can spot Boxxy in the second photo below.
 A quick day hike with a stunning view. Check out the [full photo album](https://www.flickr.com/photos/contolini/sets/72157663159612990).
 
 <div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110172.42667440778!2d-106.42436371253945!3d35.658718147044596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x28874e911e116d2f!2sKasha-Katuwe+Tent+Rocks+National+Monument!5e1!3m2!1sen!2sus!4v1453272877284" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe style="pointer-events:none; border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110172.42667440778!2d-106.42436371253945!3d35.658718147044596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x28874e911e116d2f!2sKasha-Katuwe+Tent+Rocks+National+Monument!5e1!3m2!1sen!2sus!4v1453272877284" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

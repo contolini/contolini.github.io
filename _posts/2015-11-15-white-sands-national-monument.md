@@ -98,5 +98,5 @@ These [photos](https://www.flickr.com/photos/contolini/albums/72157663571751432)
 </div>
 
 <div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5856.728459318138!2d-106.32787028393264!3d32.78724479076936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e06303071072f3%3A0x36d1188767bf20c3!2sWhite+Sands+National+Monument!5e1!3m2!1sen!2sus!4v1453338599437" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe style="pointer-events:none; border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5856.728459318138!2d-106.32787028393264!3d32.78724479076936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e06303071072f3%3A0x36d1188767bf20c3!2sWhite+Sands+National+Monument!5e1!3m2!1sen!2sus!4v1453338599437" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

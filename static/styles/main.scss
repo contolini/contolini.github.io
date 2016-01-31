@@ -176,7 +176,7 @@ table {
 //   -- centers page content
 
 .container {
-  max-width: 60rem;
+  max-width: 45rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -210,13 +210,20 @@ table {
   }
 }
 
+///////////////////////////////////////////////////
+//  Footer
+
+footer {
+  margin: 50px 0 30px 0;
+  text-align: right;
+}
 
 //////////////////////////
 // Posts
 
 .post {
   margin-bottom: 4em;
-  max-width: 60rem;
+  max-width: 45rem;
   margin: 0 auto;
   min-height: 70px;
 
@@ -321,7 +328,7 @@ table {
     .title {
       position: absolute;
       bottom: 20%;
-      left: calc((100vw - 60rem) / 2);
+      left: calc((100vw - 45rem) / 2);
       span {
         color: #fff; 
         background: #000;

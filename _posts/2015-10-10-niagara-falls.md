@@ -82,5 +82,5 @@ excerpt_image: 'https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg'
 </div>
 
 <div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5087.8814292631305!2d-79.07123538379533!3d43.086332096916806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d342e2ed27a75d%3A0xd556b548abcc0817!2sNiagara+Falls+State+Park!5e1!3m2!1sen!2sus!4v1453365606559" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe style="pointer-events:none; border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5087.8814292631305!2d-79.07123538379533!3d43.086332096916806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d342e2ed27a75d%3A0xd556b548abcc0817!2sNiagara+Falls+State+Park!5e1!3m2!1sen!2sus!4v1453365606559" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

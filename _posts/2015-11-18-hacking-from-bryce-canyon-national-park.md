@@ -145,5 +145,5 @@ Here's the rock I chilled from (literally lolololololol) most of the day:
 Bryce is possibly my favorite park in Utah. Check out the [full photo album](https://www.flickr.com/photos/contolini/sets/72157663682367186).
 
 <div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3562.8519109171616!2d-112.1575021978943!3d37.64092825945213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1453275823835" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe style="pointer-events:none; border:0;" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3562.8519109171616!2d-112.1575021978943!3d37.64092825945213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sus!4v1453275823835" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

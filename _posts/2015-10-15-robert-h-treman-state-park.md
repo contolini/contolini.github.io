@@ -108,5 +108,5 @@ Robert H. Treman State Park, just south of Cayuga Lake, is a classic leaf-peeper
 [Full album.](https://www.flickr.com/photos/contolini/albums/72157663635317631)
 
 <div class="map">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d20626.825753879446!2d-76.56858651013604!3d42.39708700184552!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd31752fb7d06305c!2sRobert+H.+Treman+State+Park!5e1!3m2!1sen!2sus!4v1453364081923" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <iframe style="pointer-events:none; border:0;" src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d20626.825753879446!2d-76.56858651013604!3d42.39708700184552!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd31752fb7d06305c!2sRobert+H.+Treman+State+Park!5e1!3m2!1sen!2sus!4v1453364081923" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
