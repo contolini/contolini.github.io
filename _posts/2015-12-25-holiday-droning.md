@@ -2,7 +2,7 @@
 title: "Holiday Dronin'"
 author: Chris
 layout: post
-excerpt_image: 'http://i.imgur.com/XSARCp4.png'
+excerpt_image: 'https://i.imgur.com/XSARCp4.png'
 ---
 
 I bought a [DJI Phantom 3](http://www.amazon.com/gp/product/B013U0F6EQ) over the holidays and even the shaky test footage I shot of some friends looks amazing. You have no idea how excited I am to take this on my travels.

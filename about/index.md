@@ -13,7 +13,7 @@ title: About
     data-action="zoom">
 </div>
 
-I'm an open source [hacker](https://en.wikipedia.org/wiki/Hacker_culture#Definition). I believe technology is a means to an end. I'm still trying to figure out what that end is. I think it has something to do with freedom.
+I'm an [open source](https://en.wikipedia.org/wiki/Open_source) developer. I believe technology is a means to an end. I'm still trying to figure out what that end is. I think it has something to do with freedom.
 
 I travel a lot. I roam the country in a tiny ten-foot retrofitted box truck. It has solar panels, running water, and broadband Internet access.
 

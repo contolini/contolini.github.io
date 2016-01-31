@@ -156,8 +156,6 @@ The basement is flooded and filled with black mold. There are bags of blood and 
     data-action="zoom">
 </div>
 
-[Full album.](https://www.flickr.com/photos/contolini/sets/72157663791070075)
-
 <div class="map">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.3376344085564!2d-83.08630768459642!3d42.32978894500546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b32a6835f5967%3A0xef5d6d47f53911d0!2s2401+20th+St%2C+Detroit%2C+MI+48216!5e1!3m2!1sen!2sus!4v1454190948820" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
