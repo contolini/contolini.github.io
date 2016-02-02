@@ -10,5 +10,5 @@ I bought a [DJI Phantom 3](http://www.amazon.com/gp/product/B013U0F6EQ) over the
 The music in the below video was produced by the father of the little girl featured at the beginning. And, no, BJ is not dead. But it was a lot of fun watching his friends' reactions after posting the video to his Facebook page.
 
 <div class='video responsive'>
-    <iframe style="pointer-events:none; border:0;" src='https://www.youtube.com/embed/5A6Ftt61Gds?VQ=HD1080&amp;showinfo=0' frameborder='0' allowfullscreen></iframe>
+    <iframe src='https://www.youtube.com/embed/5A6Ftt61Gds?VQ=HD1080&amp;showinfo=0' frameborder='0' allowfullscreen></iframe>
 </div>

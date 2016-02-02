@@ -227,9 +227,8 @@ footer {
   margin: 0 auto;
   min-height: 70px;
 
-  // note: only change margin for title,date if inside post block
   .post-title {
-    margin-top: 0;
+    // margin-top: 0;
   }
 
   // Meta data line below post title
@@ -249,10 +248,10 @@ footer {
   color: $post-date-color;  
 }
 
-@media all and (min-width: 110rem) {
-  .container {
-    max-width: 80rem;
-  }
+.post-background {
+  height: 12rem;
+  background-color: #f4f4f0;
+  margin-bottom: 1rem;
 }
 
 //////////////////////
@@ -299,11 +298,6 @@ footer {
   .masthead {
     margin-bottom: 0;
   }
-  .post {
-    .photos.one img {
-      margin-bottom: 0;
-    }
-  }
   .photos {
     &.two,
     &.three {
@@ -316,11 +310,12 @@ footer {
       }
     }
   }
+  .post-background {
+    height: 5.5rem;
+  }
 }
 
-// The medium and large pano shots are 1024px and 2048px wide respectively
 .photos {
-  // max-width: 2048px;
   width: 100vw;
   margin-left: calc(-50vw + 50%);
   position: relative;
@@ -332,6 +327,7 @@ footer {
       span {
         color: #fff; 
         background: #000;
+        background-color: #000;
         background: rgba(0, 0, 0, 0.7);
         padding: 10px; 
       }
@@ -346,11 +342,33 @@ footer {
   }
 }
 
+// The large photos are only 2048px wide so stretch them on huge screens
+@media all and (min-width: 2048px) {
+  .photos {
+    &.caption {
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
+
+// Photo captions on the homepage
 @media all and (max-width: 70rem) {
   .photos {
     &.caption {
       .title {
         left: calc((100vw - 100%) / 2 + 1rem);
+      }
+    }
+  }
+}
+
+@media all and (max-width: 25rem) {
+  .photos {
+    &.caption {
+      .title {
+        left: 0;
       }
     }
   }

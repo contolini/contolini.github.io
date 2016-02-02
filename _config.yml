@@ -11,6 +11,7 @@ author:
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: 
 url:  'https://contolini.com'
+enforce_ssl: 'contolini.com'
 
 ########
 # more settings

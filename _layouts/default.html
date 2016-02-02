@@ -1,7 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ site.path }}{{ page.url }}" />
 
@@ -37,30 +39,31 @@
 <body>
 
 <div class="container">
-<header class="masthead">
-   <h3 class="masthead-title">
-     <a href="/">{{ site.title }}</a>
-     <small>
-       <a href="https://twitter.com/contolini" title="Twitter"><i class="fa fa-twitter"></i></a>
-     </small>
-     <small>
-       <a href="https://github.com/contolini" title="GitHub"><i class="fa fa-github"></i></a>
-     </small>
-     <small>
-       <a href="https://www.flickr.com/photos/contolini/albums" title="Flickr"><i class="fa fa-flickr"></i></a>
-     </small>
-     <small>
-       <a href="https://www.youtube.com/channel/UCLyILPQ63hGSTP-5M3RxUGg/live" title="YouTube"><i class="fa fa-youtube-square"></i></a>
-     </small>
-     <small>
-       <a href="{{ site.url }}{{ site.path }}/about" title="About"><i class="fa fa-map-o"></i></a>
-     </small>
-   </h3>
-</header>
 
-<div id="content">
-  {{ content }}
-</div>
+  <header class="masthead">
+     <h3 class="masthead-title">
+       <a href="/">{{ site.title }}</a>
+       <small>
+         <a href="https://twitter.com/contolini" title="Twitter"><i class="fa fa-twitter"></i></a>
+       </small>
+       <small>
+         <a href="https://github.com/contolini" title="GitHub"><i class="fa fa-github"></i></a>
+       </small>
+       <small>
+         <a href="https://www.flickr.com/photos/contolini/albums" title="Flickr"><i class="fa fa-flickr"></i></a>
+       </small>
+       <!-- <small>
+         <a href="https://www.youtube.com/channel/UCLyILPQ63hGSTP-5M3RxUGg/live" title="YouTube"><i class="fa fa-youtube-square"></i></a>
+       </small> -->
+       <small>
+         <a href="{{ site.url }}{{ site.path }}/about" title="About"><i class="fa fa-map-o"></i></a>
+       </small>
+     </h3>
+  </header>
+
+  <div id="content">
+    {{ content }}
+  </div>
 
 </div><!-- .container -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
