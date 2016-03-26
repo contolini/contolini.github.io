@@ -18,11 +18,18 @@ enforce_ssl: 'contolini.com'
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 sass:
   sass_dir: static/styles
   style:    expanded
 
 permalink: /:title
+
+gems:
+  - jemoji
 
 exclude:
 - README.md

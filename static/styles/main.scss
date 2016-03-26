@@ -61,6 +61,7 @@ h2 {
 }
 h3 {
   margin-top: 1.5rem;
+  margin-bottom: 1rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -105,8 +106,12 @@ pre {
   font-family: $code-font-family;
 }
 code {
-  padding: .25em .5em;
   font-size: 85%;
+  padding: .1em .25em;
+  color: #586e75;
+  background-color: rgba(253,246,227,.7);
+  border: 1px solid rgba(250,231,179,.7);
+  border-radius: 3px;
 }
 
 pre {
@@ -282,6 +287,12 @@ footer {
   &.three {
     img {
       width: calc(33.33% - 0.66666667rem);
+    }
+  }
+  &.screenshot {
+    img {
+      margin: 0 auto 1rem;
+      float: none;
     }
   }
   &:after {
