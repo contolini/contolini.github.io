@@ -27,7 +27,7 @@ a {
   strong {
     color: inherit;
   }
-  
+
   &:hover,
   &:focus {
     text-decoration: none;
@@ -128,7 +128,7 @@ pre {
     color: inherit;
     background-color: transparent;
   }
-}  
+}
 
 
 /////////////////////
@@ -200,12 +200,12 @@ table {
     margin-top: 0;
     margin-bottom: 0;
     color: $masthead-color;
-  
+
     a {
       color: $masthead-color;
       text-decoration: none;
     }
-    
+
     small {
       color: $masthead-small-color;
       font-size: 75%;
@@ -250,7 +250,7 @@ footer {
 }
 
 .post-date {
-  color: $post-date-color;  
+  color: $post-date-color;
 }
 
 .post-background {
@@ -336,14 +336,12 @@ footer {
       bottom: 20%;
       left: calc((100vw - 45rem) / 2);
       span {
-        color: #fff; 
-        background: #000;
+        color: #fff;
         background-color: #000;
         background: rgba(0, 0, 0, 0.7);
-        padding: 10px; 
       }
       time {
-        color: #000; 
+        color: #000;
         background-color: #fff;
         background: rgba(255, 255, 0, 0.7);
         padding: 6px 10px;
@@ -359,6 +357,19 @@ footer {
     &.caption {
       img {
         width: 100%;
+      }
+    }
+  }
+}
+
+// Title backgrounds are wonky
+@media all and (min-width: 800px) {
+  .photos {
+    &.caption {
+      .title {
+        span {
+          padding: 10px;
+        }
       }
     }
   }
@@ -421,5 +432,3 @@ i.fa:hover {
     }
   }
 }
-
-

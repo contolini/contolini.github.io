@@ -6,10 +6,10 @@ author:
   name:  'Chris Contolini wanders the country building things.'
   email: chris@contolini.com
 
-## note: 
+## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-path: 
+path:
 url:  'https://contolini.com'
 enforce_ssl: 'contolini.com'
 
@@ -17,6 +17,7 @@ enforce_ssl: 'contolini.com'
 # more settings
 
 markdown: kramdown
+highlighter: rouge
 
 kramdown:
   input: GFM
