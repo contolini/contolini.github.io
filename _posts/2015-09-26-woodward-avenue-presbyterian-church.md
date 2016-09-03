@@ -7,11 +7,13 @@ excerpt_image: 'https://c1.staticflickr.com/1/643/21561199110_4c1fc11f28_k.jpg'
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/643/21561199110_4c1fc11f28_k.jpg"
-    srcset="https://c1.staticflickr.com/1/643/21561199110_9c4fff68d2_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/643/21561199110_4c1fc11f28_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/643/21561199110_9c4fff68d2_c.jpg 800w,
             https://c1.staticflickr.com/1/643/21561199110_9c4fff68d2_b.jpg 1024w,
             https://c1.staticflickr.com/1/643/21561199110_4c1fc11f28_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -23,96 +25,118 @@ From [Detroit UrbEx](http://detroiturbex.com/content/churches/curvy/index.html):
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5790/21737680502_65102d55a2_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5790/21737680502_128ebf487a_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5790/21737680502_65102d55a2_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5790/21737680502_128ebf487a_c.jpg 800w,
             https://c2.staticflickr.com/6/5790/21737680502_128ebf487a_b.jpg 1024w,
             https://c2.staticflickr.com/6/5790/21737680502_65102d55a2_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c1.staticflickr.com/1/698/21126481664_934dd959df_k.jpg"
-    srcset="https://c1.staticflickr.com/1/698/21126481664_5e9ca817d2_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/698/21126481664_934dd959df_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/698/21126481664_5e9ca817d2_c.jpg 800w,
             https://c1.staticflickr.com/1/698/21126481664_5e9ca817d2_b.jpg 1024w,
             https://c1.staticflickr.com/1/698/21126481664_934dd959df_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/706/21561380418_aba9b76c7f_k.jpg"
-    srcset="https://c1.staticflickr.com/1/706/21561380418_5067084495_c.jpg 1024w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/706/21561380418_aba9b76c7f_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/706/21561380418_5067084495_c.jpg 1024w,
             https://c1.staticflickr.com/1/706/21561380418_5067084495_b.jpg 1600w,
             https://c1.staticflickr.com/1/706/21561380418_aba9b76c7f_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos three">
   <img
-    src="https://c1.staticflickr.com/1/688/21737649342_ec98763dde_k.jpg"
-    srcset="https://c1.staticflickr.com/1/688/21737649342_fe581b7b41_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/688/21737649342_ec98763dde_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/688/21737649342_fe581b7b41_c.jpg 800w,
             https://c1.staticflickr.com/1/688/21737649342_fe581b7b41_b.jpg 1024w,
             https://c1.staticflickr.com/1/688/21737649342_ec98763dde_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5828/21561271920_d654ea76f0_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5828/21561271920_88c646c42c_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5828/21561271920_d654ea76f0_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5828/21561271920_88c646c42c_c.jpg 800w,
             https://c2.staticflickr.com/6/5828/21561271920_88c646c42c_b.jpg 1024w,
             https://c2.staticflickr.com/6/5828/21561271920_d654ea76f0_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5675/21749269025_31e3480f03_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5675/21749269025_3213f7f146_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5675/21749269025_31e3480f03_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5675/21749269025_3213f7f146_c.jpg 800w,
             https://c2.staticflickr.com/6/5675/21749269025_3213f7f146_b.jpg 1024w,
             https://c2.staticflickr.com/6/5675/21749269025_31e3480f03_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5767/21723180416_a33691314a_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5767/21723180416_64d4452e8b_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5767/21723180416_a33691314a_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5767/21723180416_64d4452e8b_c.jpg 800w,
             https://c2.staticflickr.com/6/5767/21723180416_64d4452e8b_b.jpg 1024w,
             https://c2.staticflickr.com/6/5767/21723180416_a33691314a_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c1.staticflickr.com/1/607/21126543644_83d8abb32d_k.jpg"
-    srcset="https://c1.staticflickr.com/1/607/21126543644_16dd7f5838_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/607/21126543644_83d8abb32d_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/607/21126543644_16dd7f5838_c.jpg 800w,
             https://c1.staticflickr.com/1/607/21126543644_16dd7f5838_b.jpg 1024w,
             https://c1.staticflickr.com/1/607/21126543644_83d8abb32d_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/575/21758597441_a94ffbdba4_k.jpg"
-    srcset="https://c1.staticflickr.com/1/575/21758597441_90eec337d7_b.jpg 1024w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/575/21758597441_a94ffbdba4_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/575/21758597441_90eec337d7_b.jpg 1024w,
             https://c1.staticflickr.com/1/575/21758597441_b22036a4a4_h.jpg 1600w,
             https://c1.staticflickr.com/1/575/21758597441_a94ffbdba4_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5740/21758626881_67ca89fd40_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5740/21758626881_0925a882a8_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5740/21758626881_67ca89fd40_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5740/21758626881_0925a882a8_c.jpg 800w,
             https://c2.staticflickr.com/6/5740/21758626881_0925a882a8_b.jpg 1024w,
             https://c2.staticflickr.com/6/5740/21758626881_67ca89fd40_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5831/21561220400_398d4727d5_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5831/21561220400_75c51e7863_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5831/21561220400_398d4727d5_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5831/21561220400_75c51e7863_c.jpg 800w,
             https://c2.staticflickr.com/6/5831/21561220400_75c51e7863_b.jpg 1024w,
             https://c2.staticflickr.com/6/5831/21561220400_398d4727d5_k.jpg 2048w"
     alt="Woodward Avenue Presbyterian Church"
+    class="lazyload"
     data-action="zoom">
 </div>
 

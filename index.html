@@ -7,11 +7,11 @@ title: Chris Contolini
 {% for post in site.posts %}
 
 <article class='post{% if post.excerpt_image %} with-background{% endif %}'>
-  
+
     <a href="{{ site.path }}{{ post.url }}">
       <div class="photos one caption">
         {% if post.excerpt_image %}
-          <img src="{{ post.excerpt_image }}" alt="{{ post.title }}">
+          <img data-sizes="auto" data-src="{{ post.excerpt_image }}" alt="{{ post.title }}" class="lazyload">
         {% else %}
           <div class="post-background"></div>
         {% endif %}

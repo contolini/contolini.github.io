@@ -262,6 +262,8 @@ footer {
 //////////////////////
 // Photos
 
+img[data-sizes="auto"] { display: block; width: 100%; }
+
 .photos {
   img {
     display: block;

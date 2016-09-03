@@ -7,11 +7,13 @@ excerpt_image: 'https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg'
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg"
-    srcset="https://c1.staticflickr.com/1/757/21980010928_40e643a404_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/757/21980010928_40e643a404_c.jpg 800w,
             https://c1.staticflickr.com/1/757/21980010928_40e643a404_b.jpg 1024w,
             https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -19,65 +21,79 @@ excerpt_image: 'https://c1.staticflickr.com/1/757/21980010928_b261a36f37_k.jpg'
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5757/21546736193_2a2d3ba194_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5757/21546736193_84c4ec9497_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5757/21546736193_2a2d3ba194_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5757/21546736193_84c4ec9497_c.jpg 800w,
             https://c2.staticflickr.com/6/5757/21546736193_84c4ec9497_b.jpg 1024w,
             https://c2.staticflickr.com/6/5757/21546736193_2a2d3ba194_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5817/21546741473_0c077fcbc6_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5817/21546741473_aaf2ccc051_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5817/21546741473_0c077fcbc6_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5817/21546741473_aaf2ccc051_c.jpg 800w,
             https://c2.staticflickr.com/6/5817/21546741473_aaf2ccc051_b.jpg 1024w,
             https://c2.staticflickr.com/6/5817/21546741473_0c077fcbc6_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/6/5680/21979753020_4ceb2427d0_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5680/21979753020_f9f7211c93_b.jpg 1024w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5680/21979753020_4ceb2427d0_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5680/21979753020_f9f7211c93_b.jpg 1024w,
             https://c2.staticflickr.com/6/5680/21979753020_07d5b479e5_h.jpg 1600w,
             https://c2.staticflickr.com/6/5680/21979753020_4ceb2427d0_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5646/21979741420_c4c2ecd389_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5646/21979741420_d296a4152f_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5646/21979741420_c4c2ecd389_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5646/21979741420_d296a4152f_c.jpg 800w,
             https://c2.staticflickr.com/6/5646/21979741420_d296a4152f_b.jpg 1024w,
             https://c2.staticflickr.com/6/5646/21979741420_c4c2ecd389_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5806/21546797913_9e2b422d9a_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5806/21546797913_8acdc4e6a2_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5806/21546797913_9e2b422d9a_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5806/21546797913_8acdc4e6a2_c.jpg 800w,
             https://c2.staticflickr.com/6/5806/21546797913_8acdc4e6a2_b.jpg 1024w,
             https://c2.staticflickr.com/6/5806/21546797913_9e2b422d9a_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/780/21545040674_d0dacb9d1d_k.jpg"
-    srcset="https://c1.staticflickr.com/1/780/21545040674_679669e19d_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/780/21545040674_d0dacb9d1d_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/780/21545040674_679669e19d_c.jpg 800w,
             https://c1.staticflickr.com/1/780/21545040674_679669e19d_b.jpg 1024w,
             https://c1.staticflickr.com/1/780/21545040674_d0dacb9d1d_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/6/5658/22178121471_851598fed2_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5658/22178121471_ca830a289d_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5658/22178121471_851598fed2_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5658/22178121471_ca830a289d_c.jpg 800w,
             https://c2.staticflickr.com/6/5658/22178121471_ca830a289d_b.jpg 1024w,
             https://c2.staticflickr.com/6/5658/22178121471_851598fed2_k.jpg 2048w"
     alt="Niagara Falls"
+    class="lazyload"
     data-action="zoom">
 </div>
 

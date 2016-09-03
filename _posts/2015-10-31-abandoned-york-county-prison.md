@@ -7,11 +7,13 @@ excerpt_image: 'https://c2.staticflickr.com/2/1480/24453836905_d382193138_k.jpg'
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/2/1480/24453836905_d382193138_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1480/24453836905_ce1f21bb3e_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1480/24453836905_d382193138_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1480/24453836905_ce1f21bb3e_c.jpg 800w,
             https://c2.staticflickr.com/2/1480/24453836905_ce1f21bb3e_b.jpg 1024w,
             https://c2.staticflickr.com/2/1480/24453836905_d382193138_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -23,18 +25,22 @@ On my way out of Philadelphia, I stopped by downtown York to explore their old p
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/2/1623/23827025093_34b554fa0b_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1623/23827025093_5c86100c22_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1623/23827025093_34b554fa0b_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1623/23827025093_5c86100c22_c.jpg 800w,
             https://c2.staticflickr.com/2/1623/23827025093_5c86100c22_b.jpg 1024w,
             https://c2.staticflickr.com/2/1623/23827025093_34b554fa0b_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/2/1445/24453826225_b25b3de008_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1445/24453826225_43ff2ffcc0_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1445/24453826225_b25b3de008_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1445/24453826225_43ff2ffcc0_c.jpg 800w,
             https://c2.staticflickr.com/2/1445/24453826225_43ff2ffcc0_b.jpg 1024w,
             https://c2.staticflickr.com/2/1445/24453826225_b25b3de008_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -42,28 +48,34 @@ Follow the cowpath on the west side of the building to a chain link gate that's 
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/6/5791/22685659181_c678d4b17b_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5791/22685659181_b659b87190_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5791/22685659181_c678d4b17b_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5791/22685659181_b659b87190_c.jpg 800w,
             https://c2.staticflickr.com/6/5791/22685659181_b659b87190_b.jpg 1024w,
             https://c2.staticflickr.com/6/5791/22685659181_c678d4b17b_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/2/1516/24345474462_0894c7904e_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1516/24345474462_8ee1a020f3_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1516/24345474462_0894c7904e_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1516/24345474462_8ee1a020f3_c.jpg 800w,
             https://c2.staticflickr.com/2/1516/24345474462_8ee1a020f3_b.jpg 1024w,
             https://c2.staticflickr.com/2/1516/24345474462_0894c7904e_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/2/1588/24345474902_c25c4c13cb_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1588/24345474902_f3131364b3_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1588/24345474902_c25c4c13cb_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1588/24345474902_f3131364b3_c.jpg 800w,
             https://c2.staticflickr.com/2/1588/24345474902_f3131364b3_b.jpg 1024w,
             https://c2.staticflickr.com/2/1588/24345474902_c25c4c13cb_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -73,18 +85,22 @@ The cell blocks start on the second level. Find the large staircase and begin yo
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/2/1556/24427568026_0d9f45acca_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1556/24427568026_63242ae83e_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1556/24427568026_0d9f45acca_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1556/24427568026_63242ae83e_c.jpg 800w,
             https://c2.staticflickr.com/2/1556/24427568026_63242ae83e_b.jpg 1024w,
             https://c2.staticflickr.com/2/1556/24427568026_0d9f45acca_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/2/1589/24081530579_6199fd41de_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1589/24081530579_9f41191426_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1589/24081530579_6199fd41de_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1589/24081530579_9f41191426_c.jpg 800w,
             https://c2.staticflickr.com/2/1589/24081530579_9f41191426_b.jpg 1024w,
             https://c2.staticflickr.com/2/1589/24081530579_6199fd41de_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -92,48 +108,58 @@ There's a hatch that takes you up to the top level of the building. Avoid walkin
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/2/1457/24371326561_a1c980901b_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1457/24371326561_f45f72bd72_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1457/24371326561_a1c980901b_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1457/24371326561_f45f72bd72_c.jpg 800w,
             https://c2.staticflickr.com/2/1457/24371326561_f45f72bd72_b.jpg 1024w,
             https://c2.staticflickr.com/2/1457/24371326561_a1c980901b_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/2/1495/24371279711_7186210f69_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1495/24371279711_75361fdea5_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1495/24371279711_7186210f69_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1495/24371279711_75361fdea5_c.jpg 800w,
             https://c2.staticflickr.com/2/1495/24371279711_75361fdea5_b.jpg 1024w,
             https://c2.staticflickr.com/2/1495/24371279711_7186210f69_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/2/1507/23825525664_1d3d14420f_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1507/23825525664_60a054f5de_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1507/23825525664_1d3d14420f_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1507/23825525664_60a054f5de_c.jpg 800w,
             https://c2.staticflickr.com/2/1507/23825525664_60a054f5de_b.jpg 1024w,
             https://c2.staticflickr.com/2/1507/23825525664_1d3d14420f_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/2/1658/24153755880_3c91f8e6ab_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1658/24153755880_823fe76f97_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1658/24153755880_3c91f8e6ab_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1658/24153755880_823fe76f97_c.jpg 800w,
             https://c2.staticflickr.com/2/1658/24153755880_823fe76f97_b.jpg 1024w,
             https://c2.staticflickr.com/2/1658/24153755880_3c91f8e6ab_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/2/1695/24085982359_e48f1f1ce5_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1695/24085982359_e89e83b4d5_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1695/24085982359_e48f1f1ce5_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1695/24085982359_e89e83b4d5_c.jpg 800w,
             https://c2.staticflickr.com/2/1695/24085982359_e89e83b4d5_b.jpg 1024w,
             https://c2.staticflickr.com/2/1695/24085982359_e48f1f1ce5_k.jpg 2048w"
     alt="Abandoned York County Prison"
+    class="lazyload"
     data-action="zoom">
 </div>
 

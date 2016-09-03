@@ -7,11 +7,13 @@ excerpt_image: 'https://c2.staticflickr.com/2/1625/24401105332_2b2a18ce0f_k.jpg'
 
 <div class="photos one">
   <img
-    src="https://c2.staticflickr.com/2/1625/24401105332_2b2a18ce0f_k.jpg"
-    srcset="https://c2.staticflickr.com/2/1625/24401105332_f498ebce92_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/2/1625/24401105332_2b2a18ce0f_k.jpg"
+    data-srcset="https://c2.staticflickr.com/2/1625/24401105332_f498ebce92_c.jpg 800w,
             https://c2.staticflickr.com/2/1625/24401105332_f498ebce92_b.jpg 1024w,
             https://c2.staticflickr.com/2/1625/24401105332_2b2a18ce0f_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
@@ -21,79 +23,97 @@ These [photos](https://www.flickr.com/photos/contolini/albums/72157663571751432)
 
 <div class="photos two">
   <img
-    src="https://c1.staticflickr.com/1/619/22709433129_0e5a7d3a39_k.jpg"
-    srcset="https://c1.staticflickr.com/1/619/22709433129_0d3c7b07ab_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/619/22709433129_0e5a7d3a39_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/619/22709433129_0d3c7b07ab_c.jpg 800w,
             https://c1.staticflickr.com/1/619/22709433129_0d3c7b07ab_b.jpg.jpg 1024w,
             https://c1.staticflickr.com/1/619/22709433129_0e5a7d3a39_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c1.staticflickr.com/1/605/23075692356_d34227231c_k.jpg"
-    srcset="https://c1.staticflickr.com/1/605/23075692356_1b3b7cee67_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/605/23075692356_d34227231c_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/605/23075692356_1b3b7cee67_c.jpg 800w,
             https://c1.staticflickr.com/1/605/23075692356_1b3b7cee67_b.jpg 1024w,
             https://c1.staticflickr.com/1/605/23075692356_d34227231c_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c1.staticflickr.com/1/708/22683402268_041825b022_k.jpg"
-    srcset="https://c1.staticflickr.com/1/708/22683402268_8523043554_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/708/22683402268_041825b022_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/708/22683402268_8523043554_c.jpg 800w,
             https://c1.staticflickr.com/1/708/22683402268_8523043554_b.jpg 1024w,
             https://c1.staticflickr.com/1/708/22683402268_041825b022_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5642/22479030634_6a555c6408_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5642/22479030634_2b3f7f46f4_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5642/22479030634_6a555c6408_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5642/22479030634_2b3f7f46f4_c.jpg 800w,
             https://c2.staticflickr.com/6/5642/22479030634_2b3f7f46f4_b.jpg 1024w,
             https://c2.staticflickr.com/6/5642/22479030634_6a555c6408_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos one">
   <img
-    src="https://c1.staticflickr.com/1/608/22480604263_1a06c4c298_k.jpg"
-    srcset="https://c1.staticflickr.com/1/608/22480604263_307134f5fd_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/608/22480604263_1a06c4c298_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/608/22480604263_307134f5fd_c.jpg 800w,
             https://c1.staticflickr.com/1/608/22480604263_307134f5fd_b.jpg 1024w,
             https://c1.staticflickr.com/1/608/22480604263_1a06c4c298_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c1.staticflickr.com/1/606/23113201881_11266e0aac_k.jpg"
-    srcset="https://c1.staticflickr.com/1/606/23113201881_c07a56fb92_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/606/23113201881_11266e0aac_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/606/23113201881_c07a56fb92_c.jpg 800w,
             https://c1.staticflickr.com/1/606/23113201881_c07a56fb92_b.jpg 1024w,
             https://c1.staticflickr.com/1/606/23113201881_11266e0aac_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c1.staticflickr.com/1/770/22946147939_84fce24acb_k.jpg"
-    srcset="https://c1.staticflickr.com/1/770/22946147939_8f273ddd76_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c1.staticflickr.com/1/770/22946147939_84fce24acb_k.jpg"
+    data-srcset="https://c1.staticflickr.com/1/770/22946147939_8f273ddd76_c.jpg 800w,
             https://c1.staticflickr.com/1/770/22946147939_8f273ddd76_b.jpg 1024w,
             https://c1.staticflickr.com/1/770/22946147939_84fce24acb_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
 <div class="photos two">
   <img
-    src="https://c2.staticflickr.com/6/5636/23075775886_9f712abb2a_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5636/23075775886_5cf29a8290_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5636/23075775886_9f712abb2a_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5636/23075775886_5cf29a8290_c.jpg 800w,
             https://c2.staticflickr.com/6/5636/23075775886_5cf29a8290_b.jpg 1024w,
             https://c2.staticflickr.com/6/5636/23075775886_9f712abb2a_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
   <img
-    src="https://c2.staticflickr.com/6/5711/22709598579_9bc4e4510b_k.jpg"
-    srcset="https://c2.staticflickr.com/6/5711/22709598579_aaf3c4e6e6_c.jpg 800w,
+    data-sizes="auto"
+    data-src="https://c2.staticflickr.com/6/5711/22709598579_9bc4e4510b_k.jpg"
+    data-srcset="https://c2.staticflickr.com/6/5711/22709598579_aaf3c4e6e6_c.jpg 800w,
             https://c2.staticflickr.com/6/5711/22709598579_aaf3c4e6e6_b.jpg 1024w,
             https://c2.staticflickr.com/6/5711/22709598579_9bc4e4510b_k.jpg 2048w"
     alt="White Sands National Monument"
+    class="lazyload"
     data-action="zoom">
 </div>
 
